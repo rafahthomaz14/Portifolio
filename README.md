@@ -9,7 +9,6 @@ Como desenvolvedor front-end, decidi criar um portfólio para mostrar alguns dos
 Inicialmente criei a página home, com algumas informações sobre mim e links de acesso para as redes sociais:
 
 <div>
-  <video autoplay loop muted>
-    <source src="./public/home.mp4" type="video/mp4">
-  </video>
+  <img src="./public/home.gif">
 </div>
+</br>

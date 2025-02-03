@@ -54,7 +54,7 @@ export default function Projetos() {
                                                     </a><SiGithub size={20} color='white' />
                                                 </button>
                                                 <button>
-                                                    <a href="#" target="_blank" rel="noopener noreferrer">
+                                                    <a href="https://card-mario.netlify.app/" target="_blank" rel="noopener noreferrer">
                                                         <FaEye size={20} color='white' />
                                                     </a>
                                                 </button>

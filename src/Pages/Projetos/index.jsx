@@ -17,38 +17,13 @@ export default function Projetos() {
                                 <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12 p-3 mb-2">
                                     <div className="projeto">
                                         <div className="card-projeto">
-                                            <img src="plantech.jpg" alt="Imagem do projeto" className="img-fluid" />
-                                            <div className="botao">
-                                                <button>
-                                                    <a href="#" target="_blank" rel="noopener noreferrer">
-                                                        <MdHelpOutline size={20} color='white' />
-                                                    </a>
-                                                </button>
-                                                <button>
-                                                    <a href="https://github.com/rafahthomaz14/Projeto_Plantech" target="_blank" rel="noopener noreferrer">
-                                                        <SiGithub size={20} color="white" />
-                                                    </a>
-                                                </button>
-                                                <button>
-                                                    <a href="#" target="_blank" rel="noopener noreferrer">
-                                                        <FaEye size={20} color='white' />
-                                                    </a>
-                                                </button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12 p-3 mb-2">
-                                    <div className="projeto">
-                                        <div className="card-projeto">
                                             <img src="card-mario.png" alt="Imagem do projeto" className="img-fluid" />
                                             <div className="botao">
-                                                <button>
+                                                {/* <button>
                                                     <a href="#" target="_blank" rel="noopener noreferrer">
                                                         <MdHelpOutline size={20} color='white' />
                                                     </a>
-                                                </button>
+                                                </button> */}
                                                 <button>
                                                     <a href="https://github.com/rafahthomaz14/Card-Mario">
                                                     </a><SiGithub size={20} color='white' />
@@ -68,11 +43,11 @@ export default function Projetos() {
                                         <div className="card-projeto">
                                             <img src="catalogo.png" alt="Imagem do projeto" className="img-fluid" />
                                             <div className="botao">
-                                                <button>
+                                                {/* <button>
                                                     <a href="#" target="_blank" rel="noopener noreferrer">
                                                         <MdHelpOutline size={20} color='white' />
                                                     </a>
-                                                </button>
+                                                </button> */}
                                                 <button>
                                                     <a href="https://github.com/rafahthomaz14/Catalogo_online" target="_blank" rel="noopener noreferrer">
                                                         <SiGithub size={20} color="white" />
@@ -90,22 +65,46 @@ export default function Projetos() {
                                 <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12 p-3 mb-2">
                                     <div className="projeto">
                                         <div className="card-projeto">
-                                            <img src="foto.jpeg" alt="Imagem do projeto" className="img-fluid" />
+                                            <img src="canteen.jpg" alt="Imagem do projeto" className="img-fluid" />
                                             <div className="botao">
-                                                <button>
+                                                {/* <button>
                                                     <a href="#" target="_blank" rel="noopener noreferrer">
                                                         <MdHelpOutline size={20} color='white' />
                                                     </a>
-                                                </button>
+                                                </button> */}
                                                 <button>
                                                     <a href="#" target="_blank" rel="noopener noreferrer">
                                                         <SiGithub size={20} color="white" />
                                                     </a>
                                                 </button>
-                                                <button>
+                                                {/* <button>
                                                     <a href="#" target="_blank" rel="noopener noreferrer">
                                                     </a><FaEye size={20} color='white' />
+                                                </button> */}
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12 p-3 mb-2">
+                                    <div className="projeto">
+                                        <div className="card-projeto">
+                                            <img src="plantech.jpg" alt="Imagem do projeto" className="img-fluid" />
+                                            <div className="botao">
+                                                {/* <button>
+                                                    <a href="#" target="_blank" rel="noopener noreferrer">
+                                                        <MdHelpOutline size={20} color='white' />
+                                                    </a>
+                                                </button> */}
+                                                <button>
+                                                    <a href="https://github.com/rafahthomaz14/Projeto_Plantech" target="_blank" rel="noopener noreferrer">
+                                                        <SiGithub size={20} color="white" />
+                                                    </a>
                                                 </button>
+                                                {/* <button>
+                                                    <a href="#" target="_blank" rel="noopener noreferrer">
+                                                        <FaEye size={20} color='white' />
+                                                    </a>
+                                                </button> */}
                                             </div>
                                         </div>
                                     </div>

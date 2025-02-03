@@ -3,7 +3,6 @@ import './styles.css'
 
 export default function Menu() {
     const marcador = useLocation()
-
     return (
         <div className="menu">
             <div className="imagem3"> <img src="./detalhes.png" alt="" /></div>

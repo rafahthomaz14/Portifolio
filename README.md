@@ -1,8 +1,15 @@
-# React + Vite
+<h3>Bem-vindo(a) ao meu portfólio!</h3>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Como desenvolvedor front-end, decidi criar um portfólio para mostrar alguns dos meus projetos, tecnologias que domino e também falo um pouco sobre mim e minhas experiências. Todo o projeto foi feito utilizando as seguintes tecnologias:
 
-Currently, two official plugins are available:
+- ReactJS
+- Javascript
+- CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Inicialmente criei a página home, com algumas informações sobre mim e links de acesso para as redes sociais:
+
+<div>
+  <video autoplay loop muted>
+    <source src="./public/home.mp4" type="video/mp4">
+  </video>
+</div>

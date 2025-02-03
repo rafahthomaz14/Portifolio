@@ -19,18 +19,9 @@ export default function Sobre() {
                         <h2>Olá,</h2>
                         <h3>Meu nome é <strong>Rafael Thomaz</strong></h3>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, iste.
-                            Repudiandae obcaecati excepturi placeat exercitationem qui optio nemo quae
-                            dignissimos, amet ipsa, illum consequatur repellat maxime molestiae voluptates
-                            sed esse?
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, iste.
-                            Repudiandae obcaecati excepturi placeat exercitationem qui optio nemo quae
-                            dignissimos, amet ipsa, illum consequatur repellat maxime molestiae voluptates
-                            sed esse?
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, iste.
-                            Repudiandae obcaecati excepturi placeat exercitationem qui optio nemo quae
-                            dignissimos, amet ipsa, illum consequatur repellat maxime molestiae voluptates
-                            sed esse?
+                            Desenvolvedor apaixonado por tecnologia e programação, com foco na área de Front-End. Desde 2022, venho mergulhando no mundo do desenvolvimento, com um forte interesse por ReactJS e suas diversas possibilidades. Ao longo desse tempo, tive a oportunidade de estudar e trabalhar com várias tecnologias, como HTML, CSS, JavaScript, SQL, Firebase, C#, Python, e, atualmente, estou me aprofundando no desenvolvimento Front-End.
+                            Minha jornada no universo da programação é movida pela curiosidade e pela vontade de sempre aprender mais. Estou constantemente em busca de novas soluções, melhores práticas e ferramentas para criar interfaces cada vez mais eficientes, intuitivas.
+                            Estou aberto a novos desafios, oportunidades de colaboração e conexões na comunidade de tecnologia. Meu foco é continuar crescendo como desenvolvedor e contribuir para projetos inovadores.
                         </p>
                         <strong>
                             Sinta-se à vontade para me chamar para conversar e espero que goste do meu portfólio!

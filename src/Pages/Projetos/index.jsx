@@ -25,12 +25,37 @@ export default function Projetos() {
                                                     </a>
                                                 </button> */}
                                                 <button>
-                                                    <a href="https://github.com/rafahthomaz14/Card-Mario">
+                                                    <a href="https://github.com/rafahthomaz14/Card-Mario" target="_blank" rel="noopener noreferrer">
                                                     <SiGithub size={20} color='white' />
                                                     </a>
                                                 </button>
                                                 <button>
                                                     <a href="https://card-mario.netlify.app/" target="_blank" rel="noopener noreferrer">
+                                                        <FaEye size={20} color='white' />
+                                                    </a>
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12 p-3 mb-2">
+                                    <div className="projeto">
+                                        <div className="card-projeto">
+                                            <img src="hortifruti.png" alt="Imagem do projeto" className="img-fluid" />
+                                            <div className="botao">
+                                                {/* <button>
+                                                    <a href="#" target="_blank" rel="noopener noreferrer">
+                                                        <MdHelpOutline size={20} color='white' />
+                                                    </a>
+                                                </button> */}
+                                                <button>
+                                                    <a href="https://github.com/rafahthomaz14/Hortifruti" target="_blank" rel="noopener noreferrer">
+                                                    <SiGithub size={20} color='white' />
+                                                    </a>
+                                                </button>
+                                                <button>
+                                                    <a href="https://hortifruti2024.netlify.app/" target="_blank" rel="noopener noreferrer">
                                                         <FaEye size={20} color='white' />
                                                     </a>
                                                 </button>
@@ -74,7 +99,7 @@ export default function Projetos() {
                                                     </a>
                                                 </button> */}
                                                 <button>
-                                                    <a href="#" target="_blank" rel="noopener noreferrer">
+                                                    <a href="https://github.com/rafahthomaz14/School_Canteen" target="_blank" rel="noopener noreferrer">
                                                         <SiGithub size={20} color="white" />
                                                     </a>
                                                 </button>

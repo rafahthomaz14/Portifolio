@@ -26,7 +26,8 @@ export default function Projetos() {
                                                 </button> */}
                                                 <button>
                                                     <a href="https://github.com/rafahthomaz14/Card-Mario">
-                                                    </a><SiGithub size={20} color='white' />
+                                                    <SiGithub size={20} color='white' />
+                                                    </a>
                                                 </button>
                                                 <button>
                                                     <a href="https://card-mario.netlify.app/" target="_blank" rel="noopener noreferrer">

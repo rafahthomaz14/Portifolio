@@ -14,6 +14,33 @@ export default function Projetos() {
                     <div className="row">
                         <div className="card-conteudo">
                             <div className="row">
+
+                            <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12 p-3 mb-2">
+                                    <div className="projeto">
+                                        <div className="card-projeto">
+                                            <img src="gastos.png" alt="Imagem do projeto" className="img-fluid" />
+                                            <div className="botao">
+                                                {/* <button>
+                                                    <a href="#" target="_blank" rel="noopener noreferrer">
+                                                        <MdHelpOutline size={20} color='white' />
+                                                    </a>
+                                                </button> */}
+                                                <button>
+                                                    <a href="https://github.com/rafahthomaz14/Gerenciador_Gastos" target="_blank" rel="noopener noreferrer">
+                                                    <SiGithub size={20} color='white' />
+                                                    </a>
+                                                </button>
+                                                <button>
+                                                    <a href="https://gerenciador-gastos.netlify.app/" target="_blank" rel="noopener noreferrer">
+                                                        <FaEye size={20} color='white' />
+                                                    </a>
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
                                 <div className="col-xl-3 col-lg-4 col-md-6 col-sm-12 p-3 mb-2">
                                     <div className="projeto">
                                         <div className="card-projeto">

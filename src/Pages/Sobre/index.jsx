@@ -1,4 +1,4 @@
-import './styles.css'
+import '../../Styles/sobre.css'
 import { FaReact } from "react-icons/fa";
 import { PiFileCSharpDuotone } from "react-icons/pi";
 import { FaHtml5 } from "react-icons/fa";

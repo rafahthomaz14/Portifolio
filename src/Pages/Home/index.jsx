@@ -1,4 +1,4 @@
-import './styles.css'
+import '../../Styles/home.css'
 import { FiMail } from "react-icons/fi";
 import { TbBrandGithub } from "react-icons/tb";
 import { FaLinkedinIn } from "react-icons/fa";
